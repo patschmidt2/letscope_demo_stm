@@ -1,0 +1,9 @@
+../model/runtime/src/runtime/crt/common/ndarray.c:33:12:Create	40	static
+../model/runtime/src/runtime/crt/common/ndarray.c:50:9:TVMNDArray_DataSizeBytes	64	static
+../model/runtime/src/runtime/crt/common/ndarray.c:59:5:TVMNDArray_Empty	48	static
+../model/runtime/src/runtime/crt/common/ndarray.c:72:5:TVMNDArray_Load	160	static
+../model/runtime/src/runtime/crt/common/ndarray.c:133:5:TVMNDArray_CreateView	40	static
+../model/runtime/src/runtime/crt/common/ndarray.c:143:5:TVMNDArray_RandomFill	24	static
+../model/runtime/src/runtime/crt/common/ndarray.c:152:6:TVMNDArray_IncrementReference	16	static
+../model/runtime/src/runtime/crt/common/ndarray.c:154:10:TVMNDArray_DecrementReference	16	static
+../model/runtime/src/runtime/crt/common/ndarray.c:162:5:TVMNDArray_Release	32	static

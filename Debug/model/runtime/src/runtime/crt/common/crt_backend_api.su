@@ -1,0 +1,4 @@
+../model/runtime/src/runtime/crt/common/crt_backend_api.c:35:7:TVMBackendAllocWorkspace	80	static
+../model/runtime/src/runtime/crt/common/crt_backend_api.c:48:5:TVMBackendFreeWorkspace	40	static
+../model/runtime/src/runtime/crt/common/crt_backend_api.c:55:5:TVMBackendParallelLaunch	32	static
+../model/runtime/src/runtime/crt/common/crt_backend_api.c:62:5:TVMBackendRegisterSystemLibSymbol	16	static

@@ -1,0 +1,10 @@
+../model/runtime/src/runtime/crt/aot_executor_module/aot_executor_module.c:40:9:TVMAotExecutorModule_Create	48	static
+../model/runtime/src/runtime/crt/aot_executor_module/aot_executor_module.c:75:9:TVMAotExecutorModule_NotImplemented	24	static
+../model/runtime/src/runtime/crt/aot_executor_module/aot_executor_module.c:81:9:TVMAotExecutorModule_GetInput	56	static
+../model/runtime/src/runtime/crt/aot_executor_module/aot_executor_module.c:109:9:TVMAotExecutorModule_GetOutput	72	static
+../model/runtime/src/runtime/crt/aot_executor_module/aot_executor_module.c:132:9:TVMAotExecutorModule_GetInputIndex	40	static
+../model/runtime/src/runtime/crt/aot_executor_module/aot_executor_module.c:150:9:TVMAotExecutorModule_GetInputName	32	static
+../model/runtime/src/runtime/crt/aot_executor_module/aot_executor_module.c:168:9:TVMAotExecutorModule_GetNumInputs	32	static
+../model/runtime/src/runtime/crt/aot_executor_module/aot_executor_module.c:180:9:TVMAotExecutorModule_GetNumOutputs	32	static
+../model/runtime/src/runtime/crt/aot_executor_module/aot_executor_module.c:192:9:TVMAotExecutorModule_Run	24	static
+../model/runtime/src/runtime/crt/aot_executor_module/aot_executor_module.c:229:17:TVMAotExecutorModule_Register	8	static

@@ -1,0 +1,10 @@
+../Core/Src/platform.c:38:6:TVMPlatformAbort	16	static
+../Core/Src/platform.c:41:8:TVMPlatformFormatMessage	24	static
+../Core/Src/platform.c:47:17:TVMPlatformMemoryAllocate	40	static
+../Core/Src/platform.c:52:17:TVMPlatformMemoryFree	32	static
+../Core/Src/platform.c:57:17:TVMPlatformTimerStart	4	static
+../Core/Src/platform.c:60:17:TVMPlatformTimerStop	16	static
+../Core/Src/platform.c:63:17:TVMPlatformBeforeMeasurement	4	static
+../Core/Src/platform.c:66:17:TVMPlatformAfterMeasurement	4	static
+../Core/Src/platform.c:69:17:TVMPlatformGenerateRandom	16	static
+../Core/Src/platform.c:74:17:TVMPlatformInitialize	16	static

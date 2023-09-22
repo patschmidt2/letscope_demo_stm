@@ -1,0 +1,5 @@
+../model/runtime/src/runtime/crt/microtvm_rpc_common/crcccitt.c:51:10:crc_xmodem	16	static
+../model/runtime/src/runtime/crt/microtvm_rpc_common/crcccitt.c:64:10:crc_ccitt_1d0f	16	static
+../model/runtime/src/runtime/crt/microtvm_rpc_common/crcccitt.c:77:10:crc_ccitt_ffff	16	static
+../model/runtime/src/runtime/crt/microtvm_rpc_common/crcccitt.c:91:17:crc_ccitt_generic	40	static
+../model/runtime/src/runtime/crt/microtvm_rpc_common/crcccitt.c:116:10:update_crc_ccitt	16	static

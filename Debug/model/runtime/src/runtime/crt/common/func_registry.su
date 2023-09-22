@@ -1,0 +1,8 @@
+../model/runtime/src/runtime/crt/common/func_registry.c:41:5:strcmp_cursor	24	static
+../model/runtime/src/runtime/crt/common/func_registry.c:63:10:TVMFuncRegistry_GetNumFuncs	24	static
+../model/runtime/src/runtime/crt/common/func_registry.c:69:5:TVMFuncRegistry_SetNumFuncs	16	static
+../model/runtime/src/runtime/crt/common/func_registry.c:74:13:TVMFuncRegistry_Get0thFunctionName	16	static
+../model/runtime/src/runtime/crt/common/func_registry.c:79:17:TVMFuncRegistry_Lookup	32	static
+../model/runtime/src/runtime/crt/common/func_registry.c:97:17:TVMFuncRegistry_GetByIndex	32	static
+../model/runtime/src/runtime/crt/common/func_registry.c:111:17:TVMMutableFuncRegistry_Create	24	static
+../model/runtime/src/runtime/crt/common/func_registry.c:133:17:TVMMutableFuncRegistry_Set	48	static

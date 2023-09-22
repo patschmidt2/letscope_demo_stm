@@ -1,0 +1,9 @@
+../model/runtime/src/runtime/crt/aot_executor/aot_executor.c:36:13:DumpMetadata	56	static
+../model/runtime/src/runtime/crt/aot_executor/aot_executor.c:64:5:TVMAotExecutor_GetNumInputs	16	static
+../model/runtime/src/runtime/crt/aot_executor/aot_executor.c:66:5:TVMAotExecutor_GetNumOutputs	16	static
+../model/runtime/src/runtime/crt/aot_executor/aot_executor.c:70:5:TVMAotExecutor_GetInputIndex	48	static
+../model/runtime/src/runtime/crt/aot_executor/aot_executor.c:85:5:TVMAotExecutor_GetInputName	32	static
+../model/runtime/src/runtime/crt/aot_executor/aot_executor.c:91:5:TVMAotExecutor_Run	784	static
+../model/runtime/src/runtime/crt/aot_executor/aot_executor.c:131:5:TVMAotExecutor_Init	840	static
+../model/runtime/src/runtime/crt/aot_executor/aot_executor.c:215:5:TVMAotExecutor_Create	40	static
+../model/runtime/src/runtime/crt/aot_executor/aot_executor.c:227:5:TVMAotExecutor_Release	40	static

@@ -1,0 +1,6 @@
+../model/runtime/src/runtime/crt/common/packed_func.c:31:12:String2DLDataType	40	static
+../model/runtime/src/runtime/crt/common/packed_func.c:81:5:TVMPackedFunc_InitGlobalFunc	32	static
+../model/runtime/src/runtime/crt/common/packed_func.c:97:5:TVMPackedFunc_InitModuleFunc	32	static
+../model/runtime/src/runtime/crt/common/packed_func.c:114:9:TVMArgs_Create	160	static
+../model/runtime/src/runtime/crt/common/packed_func.c:126:5:TVMPackedFunc_Call	32	static
+../model/runtime/src/runtime/crt/common/packed_func.c:133:6:TVMPackedFunc_SetArgs	16	static

@@ -1,0 +1,6 @@
+../model/codegen/host/src/default_lib1.c:495:41:__ror	16	static
+../model/codegen/host/src/default_lib1.c:34773:17:tvmgen_default_fused_nn_dense_subtract_add_fixed_point_multiply_add_clip_subtract_cast_multiply_db845967e9aad69d_	184	static
+../model/codegen/host/src/default_lib1.c:34800:17:tvmgen_default_fused_nn_dense_subtract_add_fixed_point_multiply_add_clip_subtract_cast_multiply_db845967e9aad69d__1	184	static
+../model/codegen/host/src/default_lib1.c:34827:17:tvmgen_default_fused_nn_dense_subtract_add_fixed_point_multiply_add_clip_subtract_cast_multiply_db845967e9aad69d__2	168	static
+../model/codegen/host/src/default_lib1.c:34844:17:tvmgen_default_fused_reshape	24	static
+../model/codegen/host/src/default_lib1.c:34854:17:tvmgen_default___tvm_main__	40	static

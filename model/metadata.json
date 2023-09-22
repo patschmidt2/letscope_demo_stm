@@ -1,0 +1,86 @@
+{
+  "modules": {
+    "default": {
+      "executors": [
+        "aot"
+      ],
+      "export_datetime": "2023-09-22 17:08:00Z",
+      "external_dependencies": [
+        {
+          "short_name": "tvm_standalone_crt",
+          "url": "./runtime",
+          "url_type": "mlf_path",
+          "version_spec": "0.13.dev0"
+        }
+      ],
+      "memory": {
+        "functions": {
+          "main": [
+            {
+              "constants_size_bytes": 0,
+              "device": 1,
+              "inputs": {
+                "serving_default_input_1:0": {
+                  "dtype": "int8",
+                  "size": 5
+                }
+              },
+              "io_size_bytes": 2059,
+              "outputs": {
+                "StatefulPartitionedCall_0": {
+                  "dtype": "int8",
+                  "size": 1
+                }
+              },
+              "workspace_size_bytes": 3088
+            }
+          ],
+          "operator_functions": [
+            {
+              "function_name": "tvmgen_default_fused_nn_dense_subtract_add_fixed_point_multiply_add_clip_subtract_cast_multiply_db845967e9aad69d_",
+              "workspace": [
+                {
+                  "device": 1,
+                  "workspace_size_bytes": 2048
+                }
+              ]
+            },
+            {
+              "function_name": "tvmgen_default_fused_nn_dense_subtract_add_fixed_point_multiply_add_clip_subtract_cast_multiply_db845967e9aad69d__2",
+              "workspace": [
+                {
+                  "device": 1,
+                  "workspace_size_bytes": 16
+                }
+              ]
+            },
+            {
+              "function_name": "tvmgen_default_fused_reshape",
+              "workspace": [
+                {
+                  "device": 1,
+                  "workspace_size_bytes": 0
+                }
+              ]
+            },
+            {
+              "function_name": "tvmgen_default_fused_nn_dense_subtract_add_fixed_point_multiply_add_clip_subtract_cast_multiply_db845967e9aad69d__1",
+              "workspace": [
+                {
+                  "device": 1,
+                  "workspace_size_bytes": 2048
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "model_name": "default",
+      "style": "full-model",
+      "target": [
+        "c -keys=arm_cpu,cpu -march=armv7e-m -mcpu=cortex-m7 -model=stm32f746xx"
+      ]
+    }
+  },
+  "version": 7
+}

@@ -1,0 +1,12 @@
+../model/runtime/src/runtime/crt/memory/page_allocator.c:41:6:PageCreate	56	static
+../model/runtime/src/runtime/crt/memory/page_allocator.c:50:6:PageTable_Resize	56	static
+../model/runtime/src/runtime/crt/memory/page_allocator.c:59:6:TLB_Set	40	static
+../model/runtime/src/runtime/crt/memory/page_allocator.c:71:12:TLB_Find	24	static
+../model/runtime/src/runtime/crt/memory/page_allocator.c:82:15:MultiMap_LowerBound	32	static
+../model/runtime/src/runtime/crt/memory/page_allocator.c:93:15:MultiMap_End	24	static
+../model/runtime/src/runtime/crt/memory/page_allocator.c:98:6:MultiMap_Erase	32	static
+../model/runtime/src/runtime/crt/memory/page_allocator.c:111:6:MultiMap_Insert	56	static
+../model/runtime/src/runtime/crt/memory/page_allocator.c:125:17:PageMemoryManager_Allocate	144	static
+../model/runtime/src/runtime/crt/memory/page_allocator.c:172:17:PageMemoryManager_Realloc	224	static
+../model/runtime/src/runtime/crt/memory/page_allocator.c:261:17:PageMemoryManager_Free	64	static
+../model/runtime/src/runtime/crt/memory/page_allocator.c:280:17:PageMemoryManagerCreate	48	static

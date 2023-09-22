@@ -1,0 +1,5 @@
+../model/runtime/src/runtime/crt/memory/stack_allocator.c:22:17:StackMemoryManager_Allocate_Body	40	static
+../model/runtime/src/runtime/crt/memory/stack_allocator.c:48:17:StackMemoryManager_Allocate	32	static
+../model/runtime/src/runtime/crt/memory/stack_allocator.c:58:17:StackMemoryManager_Free_Body	40	static
+../model/runtime/src/runtime/crt/memory/stack_allocator.c:72:17:StackMemoryManager_Free	24	static
+../model/runtime/src/runtime/crt/memory/stack_allocator.c:80:17:StackMemoryManager_Init	40	static
